@@ -1,4 +1,4 @@
-# MNIST_ADV_ATT
+# MNIST_ADV_TARG_ATT
 Confusion and entropy matrices for targetted attacks.
 Filename explanation:
 X_TFGSM_Y_Z_T.pdf
